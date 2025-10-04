@@ -1,0 +1,5 @@
+{
+  "name": "Sora Watermark Remover｜ZHO",
+  "description": "An application that uses the Gemini 'nano-banana' model to remove watermarks from videos by processing them frame by frame. Upload a video, and the AI will detect and erase watermarks from each extracted frame.",
+  "requestFramePermissions": []
+}
